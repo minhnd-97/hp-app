@@ -544,7 +544,7 @@
                 <div class="footer-item__title">Chi nhánh TP.Hà Nội</div>
                 <ul class="footer-item__list">
                     <li><a><i class="fa fa-map-marker"></i>Lô 03.04 Cụm CN Nguyên Khê, Đông Anh, Hà Nội</a></li>
-                    <li><a href="tel:09 7250 9123"><i class="fa fa-phone"></i>097 250 9123</a></li>
+                    <li><a href="tel:09 7250 9123"><i class="fa fa-phone"></i>093 180 1102</a></li>
                 </ul>
             </div>
             <div class="footer-item">
@@ -553,7 +553,7 @@
                     <li><a><i class="fa fa-map-marker"></i>
                             Lô15 Đường H1,Kcn sóng thần 2.Tân Đông Hiệp, Dĩ An, Bình Dương
                         </a></li>
-                    <li><a href="tel:09 7250 9123"><i class="fa fa-phone"></i>097 250 9123</a></li>
+                    <li><a href="tel:09 7250 9123"><i class="fa fa-phone"></i>093 180 1102</a></li>
                 </ul>
             </div>
         </div>
