@@ -421,7 +421,7 @@
 
                     <div class="news-home__list-box">
                         <div class="item"><a
-                                href="https://www.hoaphat.com.vn/tin-tuc/hoa-phat-ban-giao-lo-vo-container-cho-vsico.html"
+                                href="#"
                                 target="_blank">
                                 <div class="item-image">
                                     <img src="{{ asset('assets/img/block_home_1.jpg') }}">
