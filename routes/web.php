@@ -7,4 +7,5 @@ use Illuminate\Support\Facades\Route;
 //    return view('welcome');
 //});
 
-Route::get('/', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index'])->name("home");
+Route::get('/san-pham', [HomeController::class, 'product']);

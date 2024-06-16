@@ -15,3 +15,7 @@
 .header-main {
     width: calc(100% - 570px);
 }
+
+.footer-item {
+    width: calc(100% / 4);
+}
