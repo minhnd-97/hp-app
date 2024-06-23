@@ -11,7 +11,7 @@ class NewsController extends Controller
     //Method to load, decode, and process JSON data
     public function loadAndProcessData()
     {
-        $filePath = storage_path('app/Data/news-company.json');
+        $filePath = storage_path('app/public/data/news-company.json');
 
         // Check if the file exists
         if (!File::exists($filePath)) {
