@@ -63,7 +63,7 @@
 <section class="icon-fix icon-fix-right">
     <div class="item">
         <div class="item-image">
-            <a href="tel:09 7250 9123">
+            <a href="tel:0931801102">
                 <i class="fa fa-phone" style="font-size: 30px;color: rgb(19 , 147, 203)"></i>
             </a>
         </div>
