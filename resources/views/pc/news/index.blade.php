@@ -5,7 +5,7 @@
     <main class="main">
         <section class="page-title">
             <div class="page-title__background">
-                <img src="https://sudospaces.com/hoaphat-com-vn/2020/03/web-thep-1920x600px-08.png" alt="">
+                <img src="{{ asset("/assets/img/banner_03.jpeg") }}" alt="">
             </div>
             <div class="container">
                 <div class="page-title__text">Tin tức</div>
