@@ -386,7 +386,9 @@
                                             {{ $new['time'] }}
                                         </p>
                                         <h3 class="item-info__title-text">{{ $new['title'] }}</h3>
-                                        <p class="item-info__title-desc">{{ $new['content'] }}</p>
+                                        <p class="item-info__title-desc">
+                                            {{ mb_substr($new['content'], 0, 100) }}{{ strlen($new['content']) > 100 ? '...' : '' }}
+                                        </p>
                                     </div>
                                 </div>
                             </a>
