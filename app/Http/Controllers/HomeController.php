@@ -7,10 +7,13 @@ class HomeController extends Controller
 {
     public function index(Request $request)
     {
+        $newControl = new NewsController();
+        $result = $newControl->loadAndProcessData();
+        $newData = array_slice($result['data'], 0, 5);
         if ($request->get('is_mobile')) {
-            return view('mobile.home'); // Return mobile view
+            return view('mobile.home', ['new' => $newData[0],'news' => $newData]); // Return mobile view
         } else {
-            return view('pc.home'); // Return PC view
+            return view('pc.home', ['new' => $newData[0],'news' => $newData]); // Return PC view
         }
     }
 

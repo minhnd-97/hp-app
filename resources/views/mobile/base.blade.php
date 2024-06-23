@@ -62,11 +62,19 @@
 <section class="icon-fix icon-fix-right">
     <div class="item">
         <div class="item-image">
+            <a href="tel:09 7250 9123">
+                <i class="fa fa-phone" style="font-size: 30px;color: rgb(19 , 147, 203)"></i>
+            </a>
+        </div>
+        <div class="item-tooltip">Gọi cho chúng tôi</div>
+    </div>
+    <div class="item">
+        <div class="item-image">
             <a href="mailto:epshaiphong@gmail.com">
                 <img src="{{ asset('/assets/img/icon-fix-2.png') }}" alt="">
             </a>
         </div>
-        <div class="item-tooltip">epshaiphong@gmail.com</div>
+        <div class="item-tooltip">gửi email tới chúng tôi</div>
     </div>
     <div class="item">
         <div class="item-image">

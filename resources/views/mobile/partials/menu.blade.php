@@ -9,8 +9,8 @@
     </span>
     <div class="menu-container">
         <ul>
-            <li  class="has-child" >
-                <a  href="/gioi-thieu"   title="">
+            <li class="has-child">
+                <a href="/gioi-thieu" title="">
                     Giới thiệu
                 </a>
                 <div class="menu-child">
@@ -28,8 +28,8 @@
                     </div>
                 </div>
             </li>
-            <li  class="has-child" >
-                <a  href="/san-pham"   title=""
+            <li class="has-child">
+                <a href="/san-pham" title=""
                 >Sản phẩm</a>
 
                 <div class="menu-child">
@@ -47,16 +47,16 @@
                     </div>
                 </div>
             </li>
-            <li >
-                <a  href="/he-thong-phan-phoi"   title=""
+            <li>
+                <a href="/he-thong-phan-phoi" title=""
                 >Hệ thống phân phối</a>
             </li>
-            <li >
-                <a  href="/cong-trinh"   title=""
+            <li>
+                <a href="/cong-trinh" title=""
                 >Công trình</a>
             </li>
-            <li  class="has-child" >
-                <a  href="/tin-tuc"   title=""
+            <li class="has-child">
+                <a href="/tin-tuc" title=""
                 >Tin tức</a>
 
                 <div class="menu-child">
@@ -77,15 +77,15 @@
 <section class="quick-menu__content">
     <ul>
         <li>
-            <a  href="/san-pham#xop-eps"   title=""
+            <a href="/san-pham#xop-eps" title=""
             >Xốp EPS</a>
         </li>
         <li>
-            <a  href="/san-pham#xop-dinh-hinh"   title=""
+            <a href="/san-pham#xop-dinh-hinh" title=""
             >Xốp định hình</a>
         </li>
         <li>
-            <a  href="/san-pham#xop-xps"   title=""
+            <a href="/san-pham#xop-xps" title=""
             >Xốp XPS</a>
         </li>
     </ul>

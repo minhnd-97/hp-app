@@ -184,6 +184,7 @@
             </div>
         </section>
 
+{{--
         <section class="news-slide animated" data-animate="fadeInUp">
             <div class="container">
                 <div class="title">
@@ -256,7 +257,8 @@
                                 </a></div>
                         </div>
                     </div>
-                    {{--                <div class="news-slide__list-item">
+                    --}}
+{{--                <div class="news-slide__list-item">
                                         <div class="item">
                                             <div class="item-image">
                                                 <img src="https://sudospaces.com/hoaphat-com-vn/2019/12/cang-cai-mep-thi-vai90317601-dhrh-large.jpg" alt="">
@@ -355,10 +357,12 @@
                                                     <h3 class="item-info__title">Cầu Mỹ Thuận 2</h3>
                                                 </a></div>
                                         </div>
-                                    </div>--}}
+                                    </div>--}}{{--
+
                 </div>
             </div>
         </section>
+--}}
 
         <section class="news-home">
             <div class="container">
@@ -368,42 +372,30 @@
                         </a></div>
 
                     <div class="news-home__list-box">
-                        <div class="item"><a
-                                href="#">
+                        <div class="item">
+                            <a href="{{ route('new.detail', $new['id']) }}">
                                 <div class="item-image">
-                                    <img
-                                        src="https://sudospaces.com/hoaphat-com-vn/2024/05/z5441591954692-8e92e61daade317422aab41bd0249445.jpg"
-                                        alt="z5441591954692-8e92e61daade317422aab41bd0249445">
+                                    <img src="{{ $new['content_details'][0]['image'] }}" alt="{{ $new['title'] }}">
                                 </div>
                                 <div class="item-info">
                                     <div class="item-info__title">
                                         <p class="item-info__title-time time">
                                             <i class="fa fa-calendar" aria-hidden="true"></i>
-                                            15/05/2024
+                                            {{ date('d/m/Y', strtotime($new['date'])) }}
                                             <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            10:23
+                                            {{ $new['time'] }}
                                         </p>
-                                        <h3 class="item-info__title-text">Khởi công xây dựng dự án Trường Tiểu học Bình
-                                            Đông huyện Bình ...</h3>
-                                        <p class="item-info__title-desc"> Sáng ngày 13/5/2024, tại Khu dân cư hạ lưu
-                                            sông Trà Bồng - Đập Cà Ninh thuộc xã Bình Đông, huyện Bình Sơn, tỉnh Quảng
-                                            Ngãi, Công ty CP ...</p>
+                                        <h3 class="item-info__title-text">{{ $new['title'] }}</h3>
+                                        <p class="item-info__title-desc">{{ $new['content'] }}</p>
                                     </div>
                                 </div>
-                            </a></div>
+                            </a>
+                        </div>
+
                         <ul class="item-list">
-                            <li>
-                                <a href="#">
-                                    Sản lượng xốp EPS, sản lượng xốp XPS của công ty EPS cao nhất từ đầu năm 2024
-                                </a></li>
-                            <li>
-                                <a href="#">
-                                    Bảng giá xốp tôn nền, xốp nâng sàn, lót sàn âm mới nhất 2024
-                                </a></li>
-                            <li>
-                                <a href="#">
-                                    Báo giá tấm Panel chống cháy chuẩn chất lượng
-                                </a></li>
+                            @foreach($news as $item)
+                                <li><a href="{{ route('new.detail', $item['id']) }}">{{ $item['title'] }}</a></li>
+                            @endforeach
                         </ul>
                         <div class="item-link">
                             <a href="/tin-tuc/tin-cong-ty" class="btn-primary">Xem thêm <i
@@ -411,7 +403,7 @@
                         </div>
                     </div>
                 </div>
-
+{{--
                 <div class="news-home__list animated" data-animate="fadeInRight">
                     <div class="title">
                         <a href="https://www.hoaphat.com.vn/tin-tuc">
@@ -463,6 +455,7 @@
                         </div>
                     </div>
                 </div>
+--}}
             </div>
         </section>
     </main>

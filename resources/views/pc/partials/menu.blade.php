@@ -38,7 +38,6 @@
                     >Tin tức</a>
                     <ul class="menu-fix__child">
                         <li class="menu-fix__child-item"><a href="/tin-tuc/tin-cong-ty">Tin công ty</a></li>
-                        <li class="menu-fix__child-item"><a href="/tin-tuc">Tin Tập đoàn</a></li>
                         <li class="menu-fix__child-item"><a href="/tin-cong-nghe/tin-cong-nghe">Tin công nghệ</a></li>
                     </ul>
                 </li>
