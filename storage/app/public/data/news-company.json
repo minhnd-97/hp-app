@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Xốp EPS là gì? Đặc điểm và ứng dụng.",
+        "content": "EPS là viết tắt của Expanded Polystyrene, là một loại vật liệu nhựa xốp rỗng được sản xuất từ polystyrene qua quá trình phát triển. Được biết đến với tính năng nhẹ và cách nhiệt tốt, EPS đã trở thành vật liệu phổ biến trong nhiều ứng dụng khác nhau.",
+        "date": "2024-06-22",
+        "time": "09:30",
+        "content_details": [
+            {
+                "text": "Đặc điểm chính của EPS là tính cách nhiệt và khả năng cách âm. Nhờ vào cấu trúc tế bào xốp không đều, EPS giữ được nhiệt tốt, ngăn cản sự truyền nhiệt hiệu quả, giúp tiết kiệm năng lượng trong các ứng dụng cách nhiệt như trong ngành xây dựng. Đồng thời, khả năng cách âm của EPS cũng làm cho nó trở thành vật liệu lý tưởng cho các ứng dụng trong âm thanh và giảm độ ồn.",
+                "image": "/assets/img/news/img_1.jpg"
+            },
+            {
+                "text": "EPS được sử dụng rộng rãi trong nhiều lĩnh vực khác nhau, từ xây dựng đến đóng gói và vật liệu trang trí. Trong ngành xây dựng, nó được sử dụng làm vật liệu cách nhiệt cho tường, sàn, mái và hệ thống ống. Trong lĩnh vực đóng gói, EPS thường được sử dụng để bảo vệ sản phẩm trong quá trình vận chuyển và lưu trữ nhờ vào tính linh hoạt và độ bền cao. Ngoài ra, EPS còn được sử dụng trong các ứng dụng trang trí như tượng và hình dạng phức tạp trong các công trình kiến trúc.",
+                "image": "/assets/img/news/img_2.jpeg"
+            },
+            {
+                "text": "Tóm lại, EPS không chỉ là một vật liệu nhựa xốp thông thường mà còn là một thành phần quan trọng trong nhiều ngành công nghiệp khác nhau nhờ vào tính năng cách nhiệt, cách âm và tính linh hoạt cao của nó. Sự đa dạng trong ứng dụng của EPS chứng tỏ giá trị và tính hiệu quả của vật liệu này trong đời sống hàng ngày và trong sản xuất công nghiệp hiện đại.",
+                "image": "/assets/img/news/img_3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Xốp XPS là gì? Đặc điểm và ứng dụng.",
+        "content": "XPS là viết tắt của Extruded Polystyrene, là một loại vật liệu nhựa xốp được sản xuất từ polystyrene thông qua quá trình ép và thổi nóng. Được biết đến với tính năng cách nhiệt và khả năng chịu nén tốt, XPS đã trở thành vật liệu quan trọng trong nhiều ứng dụng khác nhau.",
+        "date": "2024-06-21",
+        "time": "09:30",
+        "content_details": [
+            {
+                "text": "Đặc điểm chính của XPS là khả năng cách nhiệt vượt trội. Với cấu trúc tế bào mở không đều và khối lượng riêng cao, XPS giữ nhiệt tốt hơn so với EPS, ngăn chặn sự truyền nhiệt hiệu quả và giúp giảm tiêu tốn năng lượng trong các ứng dụng cách nhiệt như trong ngành xây dựng. Đồng thời, tính chịu nén của XPS làm cho nó phù hợp cho các ứng dụng yêu cầu độ bền và sự ổn định cơ học cao.",
+                "image": "/assets/img/news/img_4.jpg"
+            },
+            {
+                "text": "XPS được sử dụng rộng rãi trong ngành xây dựng, đặc biệt là làm vật liệu cách nhiệt cho các tường, sàn, mái và hệ thống ống. Vì tính chịu nén tốt, XPS cũng được sử dụng để làm vật liệu cách âm và giảm độ rung trong các ứng dụng xây dựng. Ngoài ra, XPS còn được ứng dụng trong các lĩnh vực khác như trong ngành sản xuất đóng gói để bảo vệ sản phẩm, và trong sản xuất các sản phẩm thể thao và nghệ thuật nhờ vào khả năng gia công và tạo hình linh hoạt của nó.",
+                "image": "/assets/img/news/img_5.jpg"
+            },
+            {
+                "text": "Tóm lại, XPS không chỉ là một vật liệu cách nhiệt thông thường mà còn là một giải pháp đáng tin cậy trong nhiều lĩnh vực nhờ vào tính năng cách nhiệt và khả năng chịu nén tốt. Sự đa dạng trong ứng dụng của XPS chứng tỏ giá trị và tính hiệu quả của vật liệu này trong đời sống hàng ngày và trong các ứng dụng công nghiệp hiện đại.",
+                "image": "/assets/img/news/img_6.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Xốp định hình? Sử dụng công nghệ CNC vào xốp định hình.",
+        "content": "Xốp định hình là quá trình sản xuất các sản phẩm từ các loại vật liệu nhựa xốp thông qua các công nghệ và phương pháp đặc biệt để tạo ra các hình dạng phức tạp và đáp ứng các yêu cầu cụ thể của ứng dụng. Việc sử dụng công nghệ CNC (Computer Numerical Control) trong xốp định hình đóng vai trò quan trọng trong việc gia công chính xác và hiệu quả các sản phẩm từ các loại xốp khác nhau.",
+        "date": "2024-06-22",
+        "time": "09:30",
+        "content_details": [
+            {
+                "text": "Công nghệ CNC trong xốp định hình cho phép điều khiển chính xác quá trình cắt và gia công các tấm xốp theo các kích thước và hình dạng mong muốn. Thay vì sản xuất thủ công, CNC sử dụng các máy móc được lập trình trước để thực hiện các phép gia công như cắt, khoan, và tạo hình theo mô hình thiết kế chính xác từ phần mềm CAD (Computer-Aided Design). Điều này không chỉ giảm thiểu sự sai sót trong quá trình sản xuất mà còn tăng tính chính xác và hiệu suất sản xuất.",
+                "image": "/assets/img/news/img_7.jpeg"
+            },
+            {
+                "text": "Các ứng dụng của công nghệ CNC trong xốp định hình rất đa dạng. Trong ngành sản xuất, CNC được sử dụng để sản xuất các thành phần xốp phức tạp như mô hình, bảng điều khiển, và phần vỏ bọc. Trong lĩnh vực kiến trúc và nội thất, CNC giúp tạo ra các sản phẩm xốp có hình dạng độc đáo và phù hợp với yêu cầu thiết kế. Ngoài ra, trong ngành đóng gói, CNC được áp dụng để sản xuất các mẫu đóng gói xốp tiên tiến và đảm bảo sự an toàn cho sản phẩm.",
+                "image": "/assets/img/news/img_8.jpeg"
+            },
+            {
+                "text": "Tóm lại, việc áp dụng công nghệ CNC vào xốp định hình không chỉ mang lại sự chính xác và hiệu quả trong sản xuất mà còn mở ra nhiều cơ hội cho các ứng dụng sáng tạo và tiên tiến trong các lĩnh vực công nghiệp và sản phẩm tiêu dùng. Sự kết hợp giữa công nghệ CNC và xốp định hình hứa hẹn sẽ tiếp tục phát triển và đóng góp vào sự tiện ích và tiến bộ của xã hội công nghiệp hiện đại.",
+                "image": "/assets/img/news/img_9.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Ứng Dụng Xốp Định Hình trong Đóng Gói Đồ Nội Thất.",
+        "content": "Xốp định hình đóng vai trò quan trọng trong việc bảo vệ và đóng gói đồ nội thất, mang lại sự an toàn và tiện lợi cho việc vận chuyển và bảo quản các sản phẩm nội thất khác nhau.",
+        "date": "2024-06-11",
+        "time": "09:30",
+        "content_details": [
+            {
+                "text": "Xốp định hình được sử dụng rộng rãi trong ngành đóng gói đồ nội thất để bảo vệ sản phẩm khỏi va đập và hư hỏng trong quá trình vận chuyển. Với khả năng đàn hồi và độ đàn hồi cao, xốp giảm thiểu các va chạm và lực tác động lên sản phẩm, đảm bảo chất lượng của các món đồ từ khi xuất xưởng đến khi đến tay người tiêu dùng.",
+                "image": "/assets/img/news/img_8.jpeg"
+            },
+            {
+                "text": "Xốp định hình có thể được tạo thành theo các kích thước và hình dáng khác nhau để phù hợp với từng loại đồ nội thất. Các thành phần như góc bảo vệ, tấm lót và miếng đệm được thiết kế đặc biệt để chính xác vừa khít với sản phẩm, tối ưu hóa không gian đóng gói và bảo vệ sản phẩm tối đa.",
+                "image": "/assets/img/news/img_2.jpeg"
+            },
+            {
+                "text": "Việc sử dụng xốp định hình trong đóng gói đồ nội thất giúp giảm thiểu tổn thất và rủi ro hư hỏng trong quá trình vận chuyển. Điều này không chỉ giúp tiết kiệm chi phí bảo trì và sửa chữa mà còn làm giảm thiểu phí vận chuyển nhờ vào sự nhẹ và dễ dàng trong việc xếp chồng và đóng gói các mặt hàng.",
+                "image": "/assets/img/news/img_7.jpeg"
+            },
+            {
+                "text": "Ngoài các lợi ích về tính năng và kinh tế, xốp định hình cũng có thể được tái sử dụng và tái chế sau khi sử dụng, giúp giảm thiểu tác động đến môi trường. Việc sử dụng vật liệu xốp thân thiện với môi trường trong đóng gói đồ nội thất phản ánh cam kết của các doanh nghiệp với sự bền vững và bảo vệ môi trường.\n\nTóm lại, sự ứng dụng của xốp định hình trong đóng gói đồ nội thất không chỉ mang lại các lợi ích về mặt bảo vệ sản phẩm mà còn hỗ trợ cho quá trình vận chuyển và bảo quản hiệu quả. Với tính linh hoạt và khả năng tùy chỉnh cao, xốp định hình đang dần trở thành một lựa chọn phổ biến trong ngành công nghiệp đóng gói đồ nội thất hiện đại.",
+                "image": "/assets/img/news/img_9.jpeg"
+            }
+        ]
+    }
+]
