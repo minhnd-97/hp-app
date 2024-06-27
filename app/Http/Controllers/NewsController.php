@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\File;
 class NewsController extends Controller
 {
     //Method to load, decode, and process JSON data
-    public function loadAndProcessData()
+    public static function loadAndProcessData()
     {
         $filePath = public_path('storage/data/news-company.json');
 
