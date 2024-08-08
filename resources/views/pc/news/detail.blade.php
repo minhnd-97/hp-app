@@ -29,7 +29,7 @@
                     </div>
                     <div class="article-content__post-content css-content">
                         @foreach($new['content_details'] as $content)
-                            <p><strong>{{ $content['text'] }}</strong></p>
+                            <div>{!! $content['text'] !!}</div>
                             <p><img style="display: block; margin-left: auto; margin-right: auto;"
                                     src="{{ $content['image'] }}"
                                     width="700"/></p>
