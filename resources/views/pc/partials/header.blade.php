@@ -30,11 +30,18 @@
                             </ul>
                         </li>
                         <li class="menu-item">
+                            <a href="/he-thong-phan-phoi" title=""
+                            >Hệ thống phân phối</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/cong-trinh" title=""
+                            >Thư viện hình ảnh</a>
+                        </li>
+                        <li class="menu-item">
                             <a href="/tin-tuc" title=""
                             >Tin tức</a>
                             <ul class="menu-child">
                                 <li class="menu-child__item"><a href="/tin-tuc/tin-cong-ty">Tin công ty</a></li>
-                                <li class="menu-child__item"><a href="/tin-cong-nghe/tin-cong-nghe">Tin công nghệ</a></li>
                             </ul>
                         </li>
                     </ul>

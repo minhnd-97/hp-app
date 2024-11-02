@@ -47,6 +47,14 @@
                     </div>
                 </div>
             </li>
+            <li>
+                <a href="/he-thong-phan-phoi" title=""
+                >Hệ thống phân phối</a>
+            </li>
+            <li>
+                <a href="/cong-trinh" title=""
+                >Thư viện hình ảnh</a>
+            </li>
             <li class="has-child">
                 <a href="/tin-tuc" title=""
                 >Tin tức</a>
@@ -55,10 +63,6 @@
                     <div class="menu-child__item ">
                         <a href="/tin-tuc/tin-cong-ty" title=""
                         >Tin công ty</a>
-                    </div>
-                    <div class="menu-child__item ">
-                        <a href="/tin-cong-nghe/tin-cong-nghe" title=""
-                        >Tin công nghệ</a>
                     </div>
                 </div>
             </li>
