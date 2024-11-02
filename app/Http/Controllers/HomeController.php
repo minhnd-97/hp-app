@@ -24,5 +24,13 @@ class HomeController extends Controller
             return view('pc.product'); // Return PC view
         }
     }
+
+    public function introduct(Request $request) {
+        if ($request->get('is_mobile')) {
+            return view('mobile.introduct'); // Return mobile view
+        } else {
+            return view('pc.introduct'); // Return PC view
+        }
+    }
 }
 

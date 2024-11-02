@@ -8,6 +8,8 @@ Route::get('/', [HomeController::class, 'index'])->name("home");
 
 Route::get('/san-pham', [HomeController::class, 'product']);
 
+Route::get('/gioi-thieu', [HomeController::class, 'introduct']);
+
 Route::get('/tin-tuc/tin-cong-ty', [NewsController::class, 'indexCompany']);
 
 Route::get('/tin-tuc', [NewsController::class, 'index']);

@@ -47,14 +47,6 @@
                     </div>
                 </div>
             </li>
-            <li>
-                <a href="/he-thong-phan-phoi" title=""
-                >Hệ thống phân phối</a>
-            </li>
-            <li>
-                <a href="/cong-trinh" title=""
-                >Công trình</a>
-            </li>
             <li class="has-child">
                 <a href="/tin-tuc" title=""
                 >Tin tức</a>

@@ -3,6 +3,7 @@
     <style>
         .products-details__content-detail table tbody tr td p {
             max-height: unset !important;
+        }
     </style>
     <main class="main">
         <section class="page-title">
