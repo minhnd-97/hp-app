@@ -122,187 +122,8 @@
             </div>
         </section>
 
-        {{--        <section class="news-slide">--}}
-        {{--            <div class="container">--}}
-        {{--                <div class="title title-center">--}}
-        {{--                    <p class="title-text">Công trình</p>--}}
-        {{--                    <span class="title-border"></span>--}}
-        {{--                </div>--}}
-        {{--                <div class="news-slide__list">--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/10/nhiet-dien-mong-duong-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Nhà máy Nhiệt điện Mông Dương</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/10/nhiet-dien-quang-ninh-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Nhà máy Nhiệt điện Quảng Ninh</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2019/10/nhiet-dien-nghi-son-1-1024x611-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Nhà máy nhiệt điện Nghi Sơn 1</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/10/cao-toc-hn-hai-phong-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Đường cao tốc Hà Nội – Hải Phòng</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/10/trung-tam-truyen-hinh-vn-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Trung tâm truyền hình Việt Nam</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/10/cao-toc-noi-bai-lao-cai-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Đường cao tốc Nội Bài – Lào Cai</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2019/12/cang-cai-mep-thi-vai90317601-dhrh-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Cảng Cái Mép</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/12/cau-can-vanh-dai-3-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Dự án Cầu cạn đường vành đai 3</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/12/metro-nhon-ga-ha-noi-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Tuyến Metro Nhổn - ga Hà Nội</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/12/times-city-park-hill-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Times City Park Hill</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/12/formosa-ha-tinh-1024x768-large.jpg"--}}
-        {{--                                 alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Dự án Formosa Hà Tĩnh</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2019/12/design-of-cao-lanh-bridge-1024x620-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Cầu Cao Lãnh</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2019/12/cau-vam-cong-large.jpg" alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Cầu Vàm Cống</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2019/12/nhiet-dien-thai-binh-1-1024x683-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Nhà máy Nhiệt điện Thái Bình 1</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2019/12/khu-do-thi-sa-la-tphcm-1024x576-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Khu đô thị Sala - TP.Hồ Chí Minh</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img src="https://sudospaces.com/hoaphat-com-vn/2021/03/san-bay-nb-large.jpg" alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Cải tạo đường băng sân bay quốc tế Nội Bài</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2021/03/20170515122854-cau-long-thanh-1468229670-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Cao Tốc Long Thành - Dầu Giây</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="item">--}}
-        {{--                        <div class="item-image">--}}
-        {{--                            <img--}}
-        {{--                                src="https://sudospaces.com/hoaphat-com-vn/2021/03/phoi-canh-cau-my-thuan-2-1593413234-width1004height565-large.jpg"--}}
-        {{--                                alt="">--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item-info"><a href="#">--}}
-        {{--                                <h3 class="item-info__title">Cầu Mỹ Thuận 2</h3>--}}
-        {{--                            </a></div>--}}
-        {{--                    </div>--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--        </section>--}}
-
         <section class="news-home">
             <div class="container">
-
                 <div class="news-home__list">
                     <div class="title"><a href="/tin-tuc/tin-cong-ty">
                             <p class="title-text">Tin công ty</p>
@@ -339,6 +160,21 @@
                         <div class="item-link">
                             <a href="/tin-tuc/tin-cong-ty" class="btn-primary">Xem thêm <i
                                     class="fa fa-caret-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-home__list animated" data-animate="fadeInRight">
+                    <div class="title"><a href="/gioi-thieu-xuong">
+                            <p class="title-text">Xưởng sản xuất</p>
+                        </a></div>
+                    <div class="news-home__list-box">
+                        <!-- Video xưởng -->
+                        <div class="box-intro__content-media" style="width: 100%;padding-left: 0">
+                            <video autoplay muted loop playsinline
+                                   class="w-full h-auto rounded-xl shadow-lg" style="width: 100%">
+                                <source src="{{ asset('assets/img/video-home.mp4') }}" type="video/mp4">
+                                Trình duyệt của bạn không hỗ trợ video.
+                            </video>
                         </div>
                     </div>
                 </div>

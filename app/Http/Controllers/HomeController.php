@@ -33,6 +33,14 @@ class HomeController extends Controller
         }
     }
 
+    public function factory(Request $request) {
+        if ($request->get('is_mobile')) {
+            return view('mobile.factory'); // Return mobile view
+        } else {
+            return view('pc.factory'); // Return PC view
+        }
+    }
+
     public function info(Request $request) {
         if ($request->get('is_mobile')) {
             return view('mobile.info'); // Return mobile view

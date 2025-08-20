@@ -10,6 +10,8 @@ Route::get('/san-pham', [HomeController::class, 'product']);
 
 Route::get('/gioi-thieu', [HomeController::class, 'introduct']);
 
+Route::get('/gioi-thieu-xuong', [HomeController::class, 'factory']);
+
 Route::get('/he-thong-phan-phoi', [HomeController::class, 'info']);
 
 Route::get('/cong-trinh', [HomeController::class, 'image']);

@@ -29,6 +29,10 @@
                                 <li class="menu-child__item"><a href="/san-pham#xop-xps">Xốp XPS</a></li>
                             </ul>
                         </li>
+                        <li class="menu-fix__item">
+                            <a href="/gioi-thieu-xuong" title=""
+                            >Xưởng sản xuất</a>
+                        </li>
                         <li class="menu-item">
                             <a href="/he-thong-phan-phoi" title=""
                             >Hệ thống phân phối</a>

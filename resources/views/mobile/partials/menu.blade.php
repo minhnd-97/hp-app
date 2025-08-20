@@ -47,6 +47,10 @@
                     </div>
                 </div>
             </li>
+            <li class="has-child">
+                <a href="/gioi-thieu-xuong" title=""
+                >Xưởng sản xuất</a>
+            </li>
             <li>
                 <a href="/he-thong-phan-phoi" title=""
                 >Hệ thống phân phối</a>
